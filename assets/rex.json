@@ -1,36 +1,76 @@
-{"frames": [
-
 {
-	"filename": "rex1.png",
-	"frame": {"x":0,"y":0,"w":529,"h":252},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":529,"h":252},
-	"sourceSize": {"w":529,"h":252}
-},
-{
-	"filename": "rex2.png",
-	"frame": {"x":529,"y":0,"w":518,"h":256},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":518,"h":256},
-	"sourceSize": {"w":518,"h":256}
-},
-{
-	"filename": "rex3.png",
-	"frame": {"x":1047,"y":0,"w":485,"h":294},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":485,"h":294},
-	"sourceSize": {"w":485,"h":294}
-}],
-"meta": {
-	"app": "http://www.codeandweb.com/texturepacker",
-	"version": "1.0",
-	"image": "rex.png",
-	"format": "RGBA8888",
-	"size": {"w":1532,"h":294},
-	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:727d7c2f7e2ef4f2043352fddf2a1886:bf2a98eeaa0834e2dd2d0aa87736dfe7:8567df030edb5f7bc7307ed775cf4359$"
-}
+  "frames": {
+    "rex_0000": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 529,
+        "h": 252
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 529,
+        "h": 252
+      },
+      "sourceSize": {
+        "w": 529,
+        "h": 252
+      }
+    },
+    "rex_0001": {
+      "frame": {
+        "x": 529,
+        "y": 0,
+        "w": 518,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 518,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 518,
+        "h": 256
+      }
+    },
+    "rex_0002": {
+      "frame": {
+        "x": 1047,
+        "y": 0,
+        "w": 485,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 294
+      }
+    }
+  },
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "rex.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1532,
+      "h": 294
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:727d7c2f7e2ef4f2043352fddf2a1886:bf2a98eeaa0834e2dd2d0aa87736dfe7:8567df030edb5f7bc7307ed775cf4359$"
+  }
 }
